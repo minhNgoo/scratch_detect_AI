@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+.idea
+images
+Lib
+models
+Scripts
+share
+utils
+classes.txt
+last_sang.pt
+mydataset.yaml
